@@ -1,6 +1,9 @@
 # Parking IoT System  
 
-Un sistema de estacionamiento inteligente basado en IoT. Este proyecto utiliza sensores ultrasónicos, un módulo MQTT, y microcontroladores para gestionar automáticamente el acceso y la capacidad de un estacionamiento.  
+Un sistema de estacionamiento inteligente basado en IoT. Este proyecto fue realizado para la materia de Fundamentos de los sistemas embebidos de la UNLAM. Se utiliza sensores ultrasónicos, un módulo MQTT, y microcontroladores para gestionar automáticamente el acceso y la capacidad de un estacionamiento.  
+
+Proyecto en wokwi
+link: https://wokwi.com/projects/417687038690120705
 
 ## 🚗 **Características**  
 - Detección automática de vehículos en las barreras de entrada y salida.  
